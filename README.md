@@ -1,1 +1,1 @@
-# Self-Supervised-semantic-segmentatio
+# Self-Supervised-OAR-Segmentation
