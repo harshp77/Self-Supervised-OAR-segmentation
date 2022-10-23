@@ -1,1 +1,1 @@
-# Self-Supervised-OAR-Segmentation
+# Organs at Risk (OAR) segmentation for Kidney Tumor
