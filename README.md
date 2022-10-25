@@ -1,26 +1,23 @@
 # Organs at Risk (OAR) segmentation for Kidney Tumor
 
 ## About the Project
-
+<a name="readme-top"></a>
 
 <img src="https://user-images.githubusercontent.com/76595496/197849478-a415a116-0340-4174-adff-b36b4d5b9b20.png" width="500">
 
 
-Accurate segmentation of organs-at-risks (OARs) is the key step for efficient planning of radiation therapy for kidney tumor treatment.
+Accurate segmentation of organs-at-risks (OARs) is the key step for efficient planning of radiation therapy for kidney tumor treatment. In this project, we use the UNet architecture to segment kidney, which will aid in image-guided radiation therapy (IGRT). 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
 
-* [![Next][Tensorflow]][https://www.tensorflow.org/]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [Tensorflow](https://www.tensorflow.org/)
+* [PyTorch](https://pytorch.org/)
+* [MONAI](https://monai.io/)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [OpenCV](https://opencv.org/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -65,5 +62,18 @@ To replicate the code on local machine procedede with the following steps
     
     test_files = [{"vol": image_name, "seg": label_name} for image_name,label_name in zip(image_data, seg_data)]
    ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- USAGE EXAMPLES -->
+## Result
+
+So far after runing x epochs we have the following performance
+
+
+
+_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
