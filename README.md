@@ -82,3 +82,13 @@ So far after runing x epochs we have the following performance
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Contact
+
+Harsh Pandey - harsh20101@iiitnr.edu.in         
+
+Subhanshu Arya - subhanshu20101@iiitnr.edu.in
+
+Project Link: [https://github.com/harshp77/Self-Supervised-OAR-segmentation](https://github.com/harshp77/Self-Supervised-OAR-segmentation)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
