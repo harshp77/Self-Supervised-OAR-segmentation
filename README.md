@@ -3,10 +3,15 @@
 ## About the Project
 <a name="readme-top"></a>
 
+<p align="center">
 <img src="https://user-images.githubusercontent.com/76595496/197849478-a415a116-0340-4174-adff-b36b4d5b9b20.png" width="500">
+</p>
 
+Accurate segmentation of organs-at-risks (OARs) is the key step for efficient planning of radiation therapy for kidney tumor treatment. In this project, we use the UNet architecture to segment kidney, which will aid in image-guided radiation therapy (IGRT). MONAI is being used to load the three-dimensional data. And PyTorch for subsequent data training and testing. The UNet architecture used for training is described below:
 
-Accurate segmentation of organs-at-risks (OARs) is the key step for efficient planning of radiation therapy for kidney tumor treatment. In this project, we use the UNet architecture to segment kidney, which will aid in image-guided radiation therapy (IGRT). 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/76595496/197985285-42962425-a905-4172-8ffb-40da68f5d778.png" width="500">
+</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
