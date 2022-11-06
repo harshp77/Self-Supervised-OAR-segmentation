@@ -77,11 +77,8 @@ To replicate the code on local machine procedede with the following steps
 
 So far after runing x epochs we have the following performance
 
+![image](https://user-images.githubusercontent.com/76607486/200165602-54f9f0da-fd80-4775-8f12-11f93327eb54.png)
 
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contact
 
