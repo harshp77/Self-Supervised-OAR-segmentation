@@ -1,5 +1,5 @@
 # Organs at Risk (OAR) segmentation for Kidney Tumor
-Pulled down the code due to paper in process
+
 ## About the Project
 <a name="readme-top"></a>
 
